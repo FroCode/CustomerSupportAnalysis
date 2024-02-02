@@ -1,0 +1,16 @@
+Ticket Type,Customer Gender,Ticket ID
+Billing inquiry,Female,561
+Billing inquiry,Male,560
+Billing inquiry,Other,513
+Cancellation request,Female,557
+Cancellation request,Male,591
+Cancellation request,Other,547
+Product inquiry,Female,554
+Product inquiry,Male,558
+Product inquiry,Other,529
+Refund request,Female,617
+Refund request,Male,612
+Refund request,Other,523
+Technical issue,Female,598
+Technical issue,Male,575
+Technical issue,Other,574
