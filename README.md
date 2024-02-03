@@ -1,7 +1,7 @@
 ##
 ## Results 
-<img src="/Capture d&apos;écran 2024-02-02 205102.png" width="550">
-<img src="/Capture d&apos;écran 2024-02-02 205120.png" width="550">
+<img src="/Capture d&apos;écran 2024-02-02 205102.png" width="850">
+<img src="/Capture d&apos;écran 2024-02-02 205120.png" width="850">
 
 # Customer Support Analysis
 
