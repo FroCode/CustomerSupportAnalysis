@@ -8,9 +8,9 @@ This project, aims to uncover insights from customer support ticket data to impr
 # 
 Below is the structure of this repository, which is organized into several key folders and files:
 
-- DataSets/: Contains the raw and processed data used in the analysis. This includes customer support ticket logs, product information, and any other relevant datasets.
+- `DataSets/`: Contains the raw and processed data used in the analysis. This includes customer support ticket logs, product information, and any other relevant datasets.
 
-- Results/: This folder holds the final analysis reports, visualizations, and any generated output files that summarize our findings. These materials are designed to be accessible to both technical and non-technical stakeholders.
+- `Results/`: This folder holds the final analysis reports, visualizations, and any generated output files that summarize our findings. These materials are designed to be accessible to both technical and non-technical stakeholders.
 
 - gitattributes: Git configuration file that helps in handling the project files across different environments.
 
